@@ -16,3 +16,4 @@ figure3and4.py -- plot Figures 3 and 4 in Nimmo et al. 2020
 
 ed-figure1.py -- plot Extended Data Figure 1 in Nimmo et al. 2020
 
+ed-figure2.py -- plot Extended Data Figure 2 in Nimmo et al. 2020
