@@ -6,7 +6,7 @@ The data required to run these scripts can be found here:
 The paper can be found here: https://ui.adsabs.harvard.edu/abs/2020arXiv201005800N/abstract
 
 
-joint_QU_fit.py -- used to fit functions of Q and U spectra to the pulsar data and the burst data, to extract the rotation measure and instrumental delay
+joint_fit_QU.py -- used to fit functions of Q and U spectra to the pulsar data and the burst data, to extract the rotation measure and instrumental delay
 
 figure1.py -- plot Figure 1 in Nimmo et al. 2020
 
