@@ -1,5 +1,5 @@
 """ Kenzie Nimmo 2020 """
-""" Script to produce the extended data figure 1 from Nimmo et al. 2020"""
+""" Script to produce the extended data figure 2 from Nimmo et al. 2020"""
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
