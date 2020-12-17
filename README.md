@@ -1,5 +1,5 @@
 # Microsecond_Polarimetry_R3
-A collection of scripts used for the analysis and plotting in Nimmo et al. 2020 "Microsecond Polarimetry of the Repeating FRB 20180916B"
+A collection of scripts used for the analysis and plotting in Nimmo et al. 2020 "Highly polarised microstructure from the repeating FRB 20180916B"
 
 The data comes from SFXC (https://github.com/jive-vlbi/sfxc) in the form of filterbank files for each polarisation product (rr, ll, rl_real, rl_imaginary).
 We combine these into a single filterbank file and using psrchive dspsr to create an archive file. 
