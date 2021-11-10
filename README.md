@@ -5,7 +5,7 @@ The data comes from SFXC (https://github.com/jive-vlbi/sfxc) in the form of filt
 We combine these into a single filterbank file and using psrchive dspsr to create an archive file. 
 The python scripts take these archive files to perform the necessary analysis and make the plots.  
 
-The data required to run these scripts can be found here: 
+The data required to run these scripts can be found here: https://zenodo.org/record/4350456#.YYuQxb3MJqs
 
 The paper can be found here: https://ui.adsabs.harvard.edu/abs/2020arXiv201005800N/abstract
 
